@@ -8,7 +8,7 @@ public Student(long grade, String name) {
      this.name = name;
 }
  public Integer getGrade() {
-    return ;
+    return 0 ;
  }
 
 
